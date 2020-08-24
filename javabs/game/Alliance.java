@@ -2,7 +2,7 @@ package paulmodz.javabs.game;
 
 import paulmodz.javabs.messages.Packet;
 import paulmodz.javabs.messages.server.AllianceMessage;
-import paulmodz.javabs.server.Session;
+import paulmodz.javabs.server.Session;аораорраааорр
 import java.io.DataInputStream;
 import java.io.DataOutput;
 import java.io.DataOutputStream;
